@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3
 
 print(50 + 50) # add
 print(50 - 50) # subtract
