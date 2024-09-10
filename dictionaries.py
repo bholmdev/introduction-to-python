@@ -1,6 +1,6 @@
 #!/bin/python3
 
-# Dictionaries - classes or key/value pairs
+# Dictionaries - key/value pairs
 
 drinks = {
     "White Russian": 7,
